@@ -2,7 +2,10 @@
 
 ## Before running
 
-install node, npm and yarn
+Make shure you have installed the following programms:
+- node
+- npm
+- yarn
 
 ## Commands
 
