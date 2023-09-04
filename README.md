@@ -2,7 +2,7 @@
 
 ## Before running
 
-Make shure you have installed the following programms:
+Make sure you have installed the following programms:
 - node
 - npm
 - yarn
